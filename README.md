@@ -6,6 +6,8 @@ Each example demonstrates different configurations and effects achievable with t
 
 ## Examples
 
+Main Page: [Click Here](https://sophie-mc-dev.github.io/particlesjs-demos/)
+
 1. **Starry Sky**
 
    - Description: A mesmerizing starry sky background created using particles.js.
