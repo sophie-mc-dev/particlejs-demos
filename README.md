@@ -9,16 +9,16 @@ Each example demonstrates different configurations and effects achievable with t
 1. **Starry Sky**
 
    - Description: A mesmerizing starry sky background created using particles.js.
-   - Demo: [Starry Sky Demo](https://sophie-mc-dev.github.io/particlesjs-demos/)
+   - Demo: [Starry Sky Demo](https://sophie-mc-dev.github.io/particlesjs-demos/starry)
 
 2. **Snowflake Sky**
 
    - Description: Delicate snowflakes falling against a gradient background.
-   - Demo: [Snowflake Sky Demo](https://sophie-mc-dev.github.io/particlesjs-demos/)
+   - Demo: [Snowflake Sky Demo](https://sophie-mc-dev.github.io/particlesjs-demos/snowflake)
 
 3. **Daisy Field**
    - Description: A field of animated daisies swaying gently in the wind.
-   - Demo: [Daisy Field Demo](https://sophie-mc-dev.github.io/particlesjs-demos/)
+   - Demo: [Daisy Field Demo](https://sophie-mc-dev.github.io/particlesjs-demos/daisy)
 
 ## Usage
 
